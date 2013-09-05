@@ -1,0 +1,3 @@
+CoreTween change log
+
+* v1.0.0 rc1 - 18 August 2009 - First release candidate
